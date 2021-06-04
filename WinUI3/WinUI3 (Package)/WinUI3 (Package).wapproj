@@ -73,6 +73,8 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="71400d01-6c44-4aae-a271-d387a9414ae9.devicemanifest-ms" />
+    <Content Include="71400d01-6c44-4aae-a271-d387a9414ae9.devicemetadata-ms" />
     <Content Include="Images\SplashScreen.scale-200.png" />
     <Content Include="Images\LockScreenLogo.scale-200.png" />
     <Content Include="Images\Square150x150Logo.scale-200.png" />
@@ -80,6 +82,8 @@
     <Content Include="Images\Square44x44Logo.targetsize-24_altform-unplated.png" />
     <Content Include="Images\StoreLogo.png" />
     <Content Include="Images\Wide310x150Logo.scale-200.png" />
+    <Content Include="StoreManifest.xml" />
+    <Content Include="WinUI3 %28Package%29.assets.cache" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\WinUI3\WinUI3.csproj">
